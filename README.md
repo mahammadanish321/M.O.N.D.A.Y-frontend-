@@ -1,3 +1,4 @@
+# M.O.N.D.A.Y — Frontend
 This repository contains the frontend experience layer for M.O.N.D.A.Y (Modular Omni-intelligent Neural Dialogue Assistant Yielding).
 
 The frontend is responsible for everything the user sees, hears, and interacts with. It translates backend responses into real-time voice output and animated avatar behavior, maintaining the illusion of a living assistant.
